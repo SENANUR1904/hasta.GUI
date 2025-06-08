@@ -1,0 +1,34 @@
+# Derlenmiş class dosyaları
+*.class
+
+# Derlenmiş JAR dosyaları
+*.jar
+
+# NetBeans build klasörleri
+/build/
+/dist/
+
+# Özel NetBeans ayarları
+nbproject/private/
+
+# Genel IDE dosyaları
+*.log
+*.iml
+*.ipr
+*.iws
+
+# Windows için: thumbs.db gibi sistem dosyaları
+Thumbs.db
+.DS_Store
+
+# Geçici dosyalar
+*.swp
+*.bak
+*.tmp
+
+# IntelliJ IDEA klasörleri (eğer kullanırsan)
+.idea/
+out/
+
+# OneDrive senkronizasyon dosyaları (varsa)
+~$*
